@@ -1,0 +1,1 @@
+# analizator_log__for_linux
